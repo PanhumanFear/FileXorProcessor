@@ -1,0 +1,3 @@
+A:\Qt\Tools\CMake_64\bin\cmake.exe -E rm -f CMakeFiles\FileXorProcessor.dir/objects.a
+A:\Qt\Tools\mingw1310_64\bin\ar.exe qc CMakeFiles\FileXorProcessor.dir/objects.a @CMakeFiles\FileXorProcessor.dir\objects1.rsp
+A:\Qt\Tools\mingw1310_64\bin\g++.exe -g -mwindows -Wl,--whole-archive CMakeFiles\FileXorProcessor.dir/objects.a -Wl,--no-whole-archive -o FileXorProcessor.exe -Wl,--out-implib,libFileXorProcessor.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\FileXorProcessor.dir\linkLibs.rsp
